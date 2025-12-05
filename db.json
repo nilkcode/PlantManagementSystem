@@ -1,0 +1,244 @@
+{
+  "machines": [
+    {
+      "machineName": "Hydraulic Press",
+      "modalName": "Hydro-450",
+      "lastService": "10/12/2025",
+      "nextService": "11/12/2025",
+      "technician": "Rohan Patil",
+      "id": "M-xk28s91a"
+    },
+    {
+      "machineName": "Lathe Machine",
+      "modalName": "Lathe-220",
+      "lastService": "09/20/2025",
+      "nextService": "10/20/2025",
+      "technician": "Pratik Shah",
+      "id": "M-a92ksl12"
+    },
+    {
+      "machineName": "CNC Router",
+      "modalName": "CNC-550",
+      "lastService": "09/05/2025",
+      "nextService": "10/05/2025",
+      "technician": "Amit Borse",
+      "id": "M-plm302kd"
+    },
+    {
+      "machineName": "Welding Machine",
+      "modalName": "Weld-X30",
+      "lastService": "11/01/2025",
+      "nextService": "12/01/2025",
+      "technician": "Shubham Gaikwad",
+      "id": "M-ks72mdlw"
+    },
+    {
+      "machineName": "Grinding Machine",
+      "modalName": "Grind-900",
+      "lastService": "10/10/2025",
+      "nextService": "11/10/2025",
+      "technician": "Sahil Jadhav",
+      "id": "M-pp28qld2"
+    },
+    {
+      "machineName": "Drilling Machine",
+      "modalName": "Drill-700",
+      "lastService": "09/28/2025",
+      "nextService": "10/28/2025",
+      "technician": "Nikhil Patil",
+      "id": "M-ll29as89"
+    },
+    {
+      "machineName": "Packaging Machine",
+      "modalName": "PackPro-150",
+      "lastService": "10/03/2025",
+      "nextService": "11/03/2025",
+      "technician": "Aaditya Kddd",
+      "id": "M-zx09qwe7"
+    },
+    {
+      "machineName": "Injection Moulding Machine",
+      "modalName": "IM-980",
+      "lastService": "09/18/2025",
+      "nextService": "10/18/2025",
+      "technician": "Tejas Thakur",
+      "id": "M-qp76ls09"
+    },
+    {
+      "machineName": "Boiler Unit",
+      "modalName": "Boil-550",
+      "lastService": "08/05/2025",
+      "nextService": "09/05/2025",
+      "technician": "Rohit Shinde",
+      "id": "M-xm23wpl0"
+    },
+    {
+      "machineName": "Conveyor Belt",
+      "modalName": "Conv-420",
+      "lastService": "07/25/2025",
+      "nextService": "08/25/2025",
+      "technician": "Sagar Pawar",
+      "id": "M-sd71lkea"
+    },
+    {
+      "machineName": "Printing Machine",
+      "modalName": "Print-900",
+      "lastService": "09/11/2025",
+      "nextService": "10/11/2025",
+      "technician": "Tanmay Joshi",
+      "id": "M-po23mc92"
+    },
+    {
+      "machineName": "Solar Inverter",
+      "modalName": "SolInv-650",
+      "lastService": "10/17/2025",
+      "nextService": "11/17/2025",
+      "technician": "Kevin Dias",
+      "id": "M-lp93mx09"
+    },
+    {
+      "machineName": "Cutting Machine",
+      "modalName": "CutX-500",
+      "lastService": "09/15/2025",
+      "nextService": "10/15/2025",
+      "technician": "Manish G",
+      "id": "M-bn63zpl1"
+    },
+    {
+      "machineName": "Laser Engraver",
+      "modalName": "Laser-577",
+      "lastService": "07/10/2025",
+      "nextService": "08/10/2025",
+      "technician": "Ninad Kale",
+      "id": "M-wk46plq2"
+    },
+    {
+      "machineName": "Heat Exchanger",
+      "modalName": "Heat-820",
+      "lastService": "10/14/2025",
+      "nextService": "11/14/2025",
+      "technician": "Prasanna Dixit",
+      "id": "M-zl09sdp9"
+    },
+    {
+      "machineName": "Vacuum Pump",
+      "modalName": "Vac-300",
+      "lastService": "09/07/2025",
+      "nextService": "10/07/2025",
+      "technician": "Sharad T",
+      "id": "M-as19wpk6"
+    },
+    {
+      "machineName": "Oil Filter Machine",
+      "modalName": "OilF-260",
+      "lastService": "10/08/2025",
+      "nextService": "11/08/2025",
+      "technician": "Chetan Mane",
+      "id": "M-qw82psa0"
+    },
+    {
+      "machineName": "Mixer Machine",
+      "modalName": "MixPro-400",
+      "lastService": "08/29/2025",
+      "nextService": "09/29/2025",
+      "technician": "Kunal K",
+      "id": "M-al92psd8"
+    },
+    {
+      "machineName": "Generator Set",
+      "modalName": "Gen-9000",
+      "lastService": "11/04/2025",
+      "nextService": "12/04/2025",
+      "technician": "Rajas Marne",
+      "id": "M-pp29lmw7"
+    },
+    {
+      "machineName": "Cooling Tower",
+      "modalName": "CoolT-780",
+      "lastService": "10/15/2025",
+      "nextService": "11/15/2025",
+      "technician": "Deepak W",
+      "id": "M-zq18mxw2"
+    },
+    {
+      "machineName": "Water Pump",
+      "modalName": "Pump-112",
+      "lastService": "09/22/2025",
+      "nextService": "10/22/2025",
+      "technician": "Ajay More",
+      "id": "M-xs62nmk2"
+    },
+    {
+      "machineName": "Steam Generator",
+      "modalName": "Steam-600",
+      "lastService": "08/15/2025",
+      "nextService": "09/15/2025",
+      "technician": "Rupesh P",
+      "id": "M-lm92opd3"
+    },
+    {
+      "machineName": "Dust Collector",
+      "modalName": "Dust-120",
+      "lastService": "07/30/2025",
+      "nextService": "08/30/2025",
+      "technician": "Sumit B",
+      "id": "M-xc92pwd1"
+    },
+    {
+      "machineName": "Furnace Unit",
+      "modalName": "Furn-850",
+      "lastService": "10/06/2025",
+      "nextService": "11/06/2025",
+      "technician": "Akshay R",
+      "id": "M-qp29xkw8"
+    },
+    {
+      "machineName": "Shredding Machine",
+      "modalName": "Shred-310",
+      "lastService": "09/01/2025",
+      "nextService": "10/01/2025",
+      "technician": "Swapnil D",
+      "id": "M-ll38kdw1"
+    },
+    {
+      "machineName": "Air Compressor XL",
+      "modalName": "AC-450",
+      "lastService": "08/12/2025",
+      "nextService": "09/12/2025",
+      "technician": "Atharva K",
+      "id": "M-pw83mcs0"
+    },
+    {
+      "machineName": "Robo Arm Machine",
+      "modalName": "Robo-500",
+      "lastService": "10/21/2025",
+      "nextService": "11/21/2025",
+      "technician": "Abhijeet S",
+      "id": "M-as83pwk4"
+    },
+    {
+      "machineName": "Assembly Line Motor",
+      "modalName": "AM-600",
+      "lastService": "09/10/2025",
+      "nextService": "10/10/2025",
+      "technician": "Jayesh P",
+      "id": "M-kp19asw3"
+    },
+    {
+      "id": "M-r6adrq4p",
+      "machineName": "Chimney Unit ",
+      "modalName": "L-1203392k",
+      "lastService": "10/26/2025",
+      "nextService": "12/10/2025",
+      "technician": "Chimney Unit which use for dust control"
+    },
+    {
+      "id": "M-8raz7ahq",
+      "machineName": "Grinder Machine Unit",
+      "modalName": "G-Machine",
+      "lastService": "12/30/2025",
+      "nextService": "12/27/2025",
+      "technician": "Pratik Gosavi"
+    }
+  ]
+}

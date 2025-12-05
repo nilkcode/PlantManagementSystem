@@ -1,0 +1,49 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+.bg-theme-dark {
+    background-color: #171717;
+}
+
+.bg-sidebar-dark {
+    background-color: #262626;
+}
+.app-container__full {
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    flex-grow: 1;
+    height: 100vh;
+}
+
+.k-appbar-light-header {
+    --tw-bg-opacity: 1;
+    background-color: rgb(64 64 64 / var(--tw-bg-opacity));
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+
+.k-appbar-light-footer{
+    --tw-bg-opacity: 1;
+    background-color: rgb(38 38 38 / var(--tw-bg-opacity));
+}
+.overflow-custome {
+    overflow: auto;
+}
+
+.grid-header, .grid-footer {
+    --tw-bg-opacity: 1;
+    background-color: rgb(54 54 57 / var(--tw-bg-opacity));
+    padding-right: 8px !important;
+}
+
+.table-custome tbody tr:nth-child(even) {
+  background-color: #1e1e1e; /* light gray */
+}
+
+/* Apply background color to odd rows */
+.table-custome tbody tr:nth-child(odd) {
+  background-color: #252525; /* white */
+}
