@@ -1,22 +1,6 @@
 {
   "machines": [
     {
-      "machineName": "Hydraulic Press",
-      "modalName": "Hydro-450",
-      "lastService": "10/12/2025",
-      "nextService": "11/12/2025",
-      "technician": "Rohan Patil",
-      "id": "M-xk28s91a"
-    },
-    {
-      "machineName": "Lathe Machine",
-      "modalName": "Lathe-220",
-      "lastService": "09/20/2025",
-      "nextService": "10/20/2025",
-      "technician": "Pratik Shah",
-      "id": "M-a92ksl12"
-    },
-    {
       "machineName": "CNC Router",
       "modalName": "CNC-550",
       "lastService": "09/05/2025",
@@ -89,14 +73,6 @@
       "id": "M-po23mc92"
     },
     {
-      "machineName": "Solar Inverter",
-      "modalName": "SolInv-650",
-      "lastService": "10/17/2025",
-      "nextService": "11/17/2025",
-      "technician": "Kevin Dias",
-      "id": "M-lp93mx09"
-    },
-    {
       "machineName": "Cutting Machine",
       "modalName": "CutX-500",
       "lastService": "09/15/2025",
@@ -159,14 +135,6 @@
       "nextService": "11/15/2025",
       "technician": "Deepak W",
       "id": "M-zq18mxw2"
-    },
-    {
-      "machineName": "Water Pump",
-      "modalName": "Pump-112",
-      "lastService": "09/22/2025",
-      "nextService": "10/22/2025",
-      "technician": "Ajay More",
-      "id": "M-xs62nmk2"
     },
     {
       "machineName": "Steam Generator",
@@ -238,6 +206,22 @@
       "modalName": "G-Machine",
       "lastService": "12/30/2025",
       "nextService": "12/27/2025",
+      "technician": "Pratik Gosavi"
+    },
+    {
+      "id": "M-dssf3qma",
+      "machineName": "Leth Machine 1CNC",
+      "modalName": "L-1203392k",
+      "lastService": "12/30/2025",
+      "nextService": "01/10/2026",
+      "technician": "Suraj Sharma "
+    },
+    {
+      "id": "M-lquf71mf",
+      "machineName": "Grinder Machine Unit",
+      "modalName": "C-23210320",
+      "lastService": "12/30/2025",
+      "nextService": "12/22/2025",
       "technician": "Pratik Gosavi"
     }
   ]
